@@ -82,20 +82,6 @@
 
 
 
-
-lol
-
-- sryidk - sorry got me I just don't know.
-- dyel - do you even lint?
-- csb - thanks for telling me, I get it. Small chuckle, goes without saying awkward.
--  Sometimes recieved as negative assert which is not the case.
-- csbtma - wait... csb, tell me again.
-- tarcsb - see above. can be used to augment csb
-- wwwptbs - woah woah woah pump the brakes stop everything, do not commit, push, branch, tag, type!
-- cd - change demeanor, calm down
-- ysg - You're so good!
-
-<!---
 tarcsb/tarcsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
