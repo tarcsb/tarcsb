@@ -20,9 +20,6 @@ Soon to come much more!!
 
 - [LinkedIn](https://www.linkedin.com/in/plewak)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarcsb&show_icons=true&theme=radical)
 
 ## Recent Activity
 
