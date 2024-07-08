@@ -2,15 +2,10 @@
 
 Hi there! I'm Jeff Plewak.
 
-Reach out to me! This readme is under construction.
+Reach out to me!
 
-I have some pretty cool tools in my box thatinclude:
 
-code miner - extract the source from any project root (skips over large and bad files)
-             use it to grade code against requirements or readme. DOes the code do what it says? (WIP)
-
-mern cat - This isan open MERN MongoDB, Express.JS, React.JS, Node.JS - Check it out  mg-mern-cart
-
+Currently working on MERN stack (MongoDB, Express.JS, React.JS, Node.JS )
 RBAC, ShortcutKeys, Fancy messaging, Advanced error handling, Redux, Hooks, Code splitting, LazyLoading, Docker, Docker compose.
 
 Soon to come much more!!
