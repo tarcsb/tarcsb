@@ -4,6 +4,12 @@ Hi there! I'm Jeff Plewak.
 
 Reach out to me!
 
+https://buymeacoffee.com/jeffreyplewak
+
+
+I'm always available to help!
+
+
 
 Currently working on MERN stack (MongoDB, Express.JS, React.JS, Node.JS )
 RBAC, ShortcutKeys, Fancy messaging, Advanced error handling, Redux, Hooks, Code splitting, LazyLoading, Docker, Docker compose.
