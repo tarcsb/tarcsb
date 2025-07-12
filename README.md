@@ -20,6 +20,8 @@ Recently, I’ve been building APIs that integrate cutting-edge technologies lik
 
 ### Key Projects
 
+#### ** Provenance, Lineage, explainability.
+
 #### **mg-seo-api**
 An ongoing API project designed to extract and analyze SEO-related data from websites using Perplexity.ai and BeautifulSoup. This API helps improve local SEO rankings with data-driven recommendations.
 
@@ -40,6 +42,6 @@ A Google Cloud Platform-based scraper that efficiently gathers web data while en
 ---
 
 ## Connect with Me
-Feel free to reach out if you're interested in collaborating, discussing a project, or simply want to chat tech!
+Feel free to reach out if you're interested in collaborating, discussing a project, or simply want to chat
 
 
