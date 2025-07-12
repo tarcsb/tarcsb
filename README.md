@@ -1,15 +1,15 @@
 
 
-# Welcome to My GitHub Profile!
 
 Hi there! I'm Jeff Plewak, and I’m passionate about solving complex problems with elegant code and scalable solutions.
 
 ## About Me
 
-I'm a full-stack engineer, currently focusing on:
+I'm a full-stack engineer, currently focusing on AI/ML merkle/hash trees
 
-- **MERN stack (MongoDB, Express.JS, React.JS, Node.JS)**
+- **Full MERN stack (MongoDB, Express.JS, React.JS, Node.JS)**
 - API development and integration
+  
 - Advanced error handling, role-based access control (RBAC)
 - Code splitting, Lazy Loading, Redux, and Hooks
 - Docker and Docker Compose for seamless deployments
@@ -42,16 +42,4 @@ A Google Cloud Platform-based scraper that efficiently gathers web data while en
 ## Connect with Me
 Feel free to reach out if you're interested in collaborating, discussing a project, or simply want to chat tech!
 
----
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## Acknowledgments
-
-- Thanks to the open-source community and all developers who continuously inspire me.
-- Special thanks to my family and friends for their constant support.
